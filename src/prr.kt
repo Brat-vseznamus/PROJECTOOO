@@ -1,7 +1,6 @@
 /**
  * Created by hpp on 13.06.2018.
  */
-fun main(args: Array<String>) {}
 
 open class Item(var name: String = "thing")
 {
