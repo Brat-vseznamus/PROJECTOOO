@@ -55,7 +55,7 @@ fun main(args: Array<String>) {
 
 }
 
-     open class Person (var vera: Int = 0,
+      class Person (var vera: Int = 0,
               var level: Int = 0 ,
               var HP : Int = 100,
               var XP : Int = 0,
