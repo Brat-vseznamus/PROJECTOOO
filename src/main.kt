@@ -62,6 +62,7 @@ fun main(args: Array<String>) {
               var name: String = "Vova",
                   var maxHp : Int = 100)
     {   var backpack = Array<String?>(10) { i -> null}
+        var backpack2 = Array<Item?> (10) { i -> null}
         fun LevelUp()
         {
             level+=1

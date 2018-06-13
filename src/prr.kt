@@ -13,7 +13,7 @@ open class Item(var name: String = "thing")
         Pers.ThrowThing(name)
     }
 }
-class Weapon( name: String, var Damage : Int = 10) : Item ()
+class Weapon(name: String, var Damage : Int = 10) : Item ()
 {
     fun attack(Pers: Person)
     {
