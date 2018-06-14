@@ -49,7 +49,10 @@ fun main(args: Array<String>) {
 
     }
     for (i in 0 until arr2.size)
+
+
     { print("${arr2[i]}  ") }
+
 
 
 
